@@ -130,3 +130,6 @@ dmypy.json
 
 # ignore image folder(s)
 images/
+
+# ignore .pt-files
+*.pt
