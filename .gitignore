@@ -131,9 +131,15 @@ dmypy.json
 #ignore dataset folder
 Bike-Sharing-Dataset/
 
-# ignore image folder(s)
+# ignore data folder(s)
 images/
 output/
+data/
 
 # ignore .pt-files
 *.pt
+
+# ignore helper functions
+helper.py
+preprocess.p
+problem_unittests.py
