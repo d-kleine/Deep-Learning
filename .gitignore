@@ -131,10 +131,13 @@ dmypy.json
 #ignore dataset folder
 Bike-Sharing-Dataset/
 
-# ignore data folder(s)
+# ignore data folders and files
 images/
 output/
 data/
+processed-celeba-small.zip
+processed_celeba_small/
+
 
 # ignore .pt-files
 *.pt
