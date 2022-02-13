@@ -1,5 +1,5 @@
 # Udacity_DLND
-Udacity Deep Learning Nanodegree notes and project solutions
+Udacity Deep Learning Nanodegree || Notes and project solutions
 
 * Project 1: Bike+Sharing (ANN from scratch)
 * Project 2: Landmark classication and tagging for social media (CNNs)
