@@ -132,7 +132,10 @@ dmypy.json
 Bike-Sharing-Dataset/
 
 # ignore data folders and files
-images/
+*/images/train
+*/images/test
+*/images/aim
+*/images/README.md
 output/
 data/
 processed-celeba-small.zip
