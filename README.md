@@ -7,11 +7,13 @@ There are also notebooks used as projects for the Nanodegree program. In the pro
 ## Table Of Contents
 
 *Project 1: Developing a Handwritten Digits Classifier with PyTorch*
+
 Basic theoretical and practical topics of deep learning: 
 -	Basic algorithms: Gradient descent and backpropagation 
 -	Training neural networks for accuracy and robustness using techniques such as early stopping, dropout, regularization, and momentum
 
 *Project 2: Landmark Classification and Tagging for Social Media*
+
 Convolutional Neural Networks (CNNs): 
 -	Image classification 
 -	Transfer Learning
@@ -19,14 +21,17 @@ Convolutional Neural Networks (CNNs):
 -	Object recognition and semantic segmentation
 
 *Project 3: TV Script Generation*
+
 Recurrent Neural Networks (RNNs):
 -	RNN architectures and transformer architectures
 
 *Project 4: Face Generation*
+
 Generative Adversarial Networks (GANs): 
 -	Creation and training of architectures such as DCGAN, CycleGAN, ProGAN and StyleGAN
 
 *Project 5: Creating a Sentiment Analysis Web App*
+
 Complete End-to-End ML project with AWS:
 -	Use of AWS services (including S3, Amazon SageMaker, Lambda) 
 -	Creation of an API gateway to deploy a web app
