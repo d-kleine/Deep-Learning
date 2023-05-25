@@ -12,6 +12,8 @@ Basic theoretical and practical topics of deep learning:
 -	Basic algorithms: Gradient descent and backpropagation 
 -	Training neural networks for accuracy and robustness using techniques such as early stopping, dropout, regularization, and momentum
 
+[Project](https://github.com/d-kleine/Deep-Learning/tree/main/Project1_Predicting-BikeSharing-Patterns)
+
 *Project 2: Landmark Classification and Tagging for Social Media*
 
 Convolutional Neural Networks (CNNs): 
@@ -20,21 +22,29 @@ Convolutional Neural Networks (CNNs):
 -	Anomaly detection and image denoising using Autoencoders 
 -	Object recognition and semantic segmentation
 
+[Project](https://github.com/d-kleine/Deep-Learning/tree/main/Project2_Landmarks_Social-media)
+
 *Project 3: TV Script Generation*
 
 Recurrent Neural Networks (RNNs):
 -	RNN architectures and transformer architectures
+
+[Project](https://github.com/d-kleine/Deep-Learning/tree/main/Project3_TV_script_generation)
 
 *Project 4: Face Generation*
 
 Generative Adversarial Networks (GANs): 
 -	Creation and training of architectures such as DCGAN, CycleGAN, ProGAN and StyleGAN
 
+[Project](https://github.com/d-kleine/Deep-Learning/tree/main/Project4_Face_generation)
+
 *Project 5: Creating a Sentiment Analysis Web App*
 
 Complete End-to-End ML project with AWS:
 -	Use of AWS services (including S3, Amazon SageMaker, Lambda) 
 -	Creation of an API gateway to deploy a web app
+
+[Project](https://github.com/d-kleine/Deep-Learning/tree/main/Project5_AWS-Sagemaker_Model-Deployment)
 
 ### Tutorials
 
